@@ -15,7 +15,11 @@
                     called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address,
                     device name, operating system version, the configuration of the app when utilizing my Service,
                     the time and date of your use of the Service, and other statistics.
-                  </p> <p><strong>Cookies</strong></p> <p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These
+                  </p>
+  <p><strong>Android Permissions</strong></p> <p> We request the following Android permissions for the following reasons:
+  <p>1. android.permission.GET_CONTACTS: To be able to take the list of the names from the contact list</p>
+                  </p>
+  <p><strong>Cookies</strong></p> <p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These
                     are sent to your browser from the websites that you visit and are stored on your device's internal memory.
                   </p> <p>This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries
                     that use “cookies” to collect information and improve their services. You have the option to either
